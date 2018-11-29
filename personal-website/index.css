@@ -1,0 +1,22 @@
+.rectangle {
+  height: 50px;
+  width: 70px;
+  border: 1px solid black;
+  border-radius: 2px;
+
+  position: absolute;
+  left: calc(50% - 70px);
+  top: calc(50% - 50px);
+}
+
+.rectangle1{
+  height: 5px;
+  width: 20px;
+  border: 1px solid black;
+  border-radius: 0.5px;
+  border-bottom: none;
+
+  position: absolute;
+  left: calc(50% - 70px);
+  top: calc(50% - 55px);
+}
